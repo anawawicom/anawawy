@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi there 👋, I'm Admin Anawawy Network
+### Hi there 👋, I'm Admin Anawawy
 
 **I'm a Web Developer & Bakc End Developer**
 
