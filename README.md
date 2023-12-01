@@ -2,7 +2,7 @@
 
 **I'm a Web Developer & Bakc End Developer**
 
-- 🔭 I’m currently working on ANAWAWY NETWORK
+- 🔭 I’m currently working on ANAWAWY GROUP
 - 🌱 I’m currently learning what i want
 - 👯 I’m looking to collaborate on anybody
 - ✉️ You can contact me at admin@anawawy.com
